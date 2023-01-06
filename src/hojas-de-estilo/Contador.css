@@ -1,0 +1,14 @@
+.contador{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    min-width: 35rem;
+    height: 25rem;
+    color: white;
+    font-size: 15rem;
+    padding: 5rem;
+    border: 3px solid white;
+    margin-top: 5rem;
+    margin-bottom: 2rem;
+}
